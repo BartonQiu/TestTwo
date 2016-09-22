@@ -1,0 +1,10 @@
+source 'https://github.com/BartonQiu/TestTwo.git'
+
+platform :ios, '7.0'
+
+xcodeproj 'FirstProject/FirstProject.xcodeproj'
+
+target :FirstProject do
+
+
+end

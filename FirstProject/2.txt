@@ -1,0 +1,500 @@
+    9  git clean -df
+   10  git reset --hard
+   11  git rm .gitattributes
+   12  git reset --hard HEAD
+   13  newPodUpdate
+   14  git lfs ls-files
+   15   git lfs
+   16  git =lfs
+   17  git -lfs
+   18  open .
+   19  git rm .gitattributes
+   20  git reset --hard HEAD
+   21  IS_SOURCE=1 pod install --no-repo-update
+   22  open /Users/qiucheng/Files/Professional/Codes/SubModels/NWBHomePageBusinessModule
+   23  pwd
+   24  cd -
+   25  pwd
+   26  cd /Users/qiucheng/Files/Professional/Codes/Hxgapp_temp
+   27  newPodUpdate
+   28  git rm .gitattributes
+   29  git reset --hard HEAD
+   30  IS_SOURCE=1 pod install --no-repo-update
+   31  pwd
+   32  newPodUpdate
+   33  open .
+   34  git rm .gitattributes
+   35  git reset --hard HEAD
+   36  history
+   37   git clean -df 
+   38  git reset HEAD .
+   39  git rm .gitattributes
+   40  git reset --hard HEAD
+   41  open .
+   42  newPodUpdate
+   43  history
+   44  git rm .gitattributes;git reset --hard HEAD
+   45  newPodUpdate
+   46  pwd
+   47  open .
+   48  open .
+   49  pwd
+   50  newPodUpdate
+   51  open .
+   52  pwd
+   53  newPodUpdate
+   54  newPodUpdate
+   55  cd /Users/qiucheng/Desktop/Code
+   56  ls
+   57  pod update
+   58  /Users/qiucheng/Library/Developer/Xcode/DerivedData/Code-eohkxhtkopilxceatjyyuyvtskmo/Build/Products/Debug-iphonesimulator/Code.app/testImg.bundle 
+   59  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+   60  newPodUpdate
+   61  newPodUpdate
+   62  open .
+   63  open .
+   64  ls
+   65  rm -r Podfile.lock  Pods
+   66  pwd
+   67  ls
+   68  rm -rf Pods
+   69  newPodUpdate
+   70  newPodUpdate
+   71  IS_SOURCE=1 pod install --repo-update
+   72  open .
+   73  pwd
+   74  open 
+   75  open .
+   76  cd /Users/qiucheng/Files/Professional/Codes/Hxgapp_temp 
+   77  newPodUpdate
+   78  newPodUpdate
+   79  cd /Users/qiucheng/NWBLiveBusinessModule 
+   80  cd /Users/qiucheng/Files/Professional/Codes/HXGApp/
+   81  pwd
+   82  newPodUpdate
+   83  cd /Users/qiucheng/Files/Professional/Codes/Hxgapp_temp 
+   84  newPodUpdate
+   85  newPodUpdate
+   86  cd /Users/qiucheng/Files/Professional/Codes/HXGApp 
+   87  cd /Users/qiucheng/Files/Professional/Codes/HXGApp/Podfile 
+   88  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+   89  newPodUpdate
+   90  open .
+   91  IS_SOURCE=1 pod update
+   92  IS_SOURCE=1 pod update
+   93  newPodUpdate
+   94  alias
+   95  cd /Users/qiucheng/Files/Professional/Codes/SubModels/HXGChooseStock/Example 
+   96  git state
+   97  git stage
+   98  git add .
+   99   git stage
+  100  pwd
+  101  open .
+  102  pwd
+  103  cd /Users/qiucheng/Files/Professional/Codes/SubModels/HXGChooseStock/Example 
+  104  git merge hxg_dev --allow-unrelated-histories
+  105  open .
+  106  pwd
+  107  cd /Users/qiucheng/Files/Professional/Codes/HXGApp 
+  108  newPodUpdate
+  109  open .
+  110  open .
+  111  pwd
+  112  newPodUpdate
+  113  newPodUpdate
+  114  open .
+  115  open .
+  116  git lfs ls-files
+  117  git rm .gitattributes
+  118  git reset --hard HEAD
+  119  cat .gitattributes
+  120  newPodUpdate
+  121  open .
+  122  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  123  newPodUpdate
+  124  newPodUpdate
+  125  heap -sortBySize /Users/qiucheng/Desktop/HXGApp\[40476\].memgraph 
+  126  clear
+  127  heap --addresses=UIImage[100-] /Users/qiucheng/Desktop/HXGApp\[40476\].memgraph 
+  128  clear
+  129  heap -sortBySize /Users/qiucheng/Desktop/HXGApp\[40476\].memgraph 
+  130  leaks /Users/qiucheng/Desktop/HXGApp\[40681\].memgraph 
+  131  history
+  132  clear
+  133  leaks -helper
+  134  /Users/qiucheng/Desktop/HXGApp\[40681\].memgraph 
+  135  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  136  git cherry-pick  edb6fe0c52056a3463f8a3a9f527bd6e640cfe0c 
+  137  pwd
+  138  newPodUpdate
+  139  IS_SOURCE=1 pod install --repo-update
+  140  IS_SOURCE=1 pod repo update YTXMarketCommunicate
+  141  IS_SOURCE=1 pod  update YTXMarketCommunicate
+  142  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  143  newPodUpdate
+  144  newPodUpdate
+  145  newPodUpdate
+  146  newPodUpdate
+  147  newPodUpdate
+  148  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  149  newPodUpdate
+  150  newPodUpdate
+  151  newPodUpdate
+  152  newPodUpdate
+  153   git reset d1421547d4176c4c2429f99a4df46f486fa67aa9
+  154   git reset d1421547d4176c4c2429f99a4df46f486fa67aa9
+  155  newPodUpdate
+  156  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  157  newPodUpdate
+  158  newPodUpdate
+  159  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  160  newPodUpdate
+  161  newPodUpdate
+  162  newPodUpdate
+  163  newPodUpdate
+  164  pwd
+  165  git rm .gitattributes
+  166  git reset --hard HEAD
+  167  newPodUpdte
+  168  pwd
+  169  newPodUpdate
+  170  newPodUpdate
+  171  newPodUpdate
+  172  open .
+  173  open .
+  174  newPodUpdate
+  175  newPodUpdate
+  176  cd /Users/qiucheng/Files/Professional/Codes/Yimi_ios 
+  177  ls
+  178  ls -a
+  179  newPodUpdate
+  180  ls -a
+  181  cd /Users/qiucheng/Downloads/firefox-ios-main 
+  182  brew install carthage
+  183  carthage update --no-use-binaries --platform ios
+  184  carthage update --no-use-binaries --platform ios
+  185  git config --global --list    
+  186  clear
+  187  git config --global --list    
+  188  git config --global --list    
+  189  carthage update --no-use-binaries --platform ios
+  190  carthage update --no-use-binaries --platform ios
+  191  carthage update
+  192  git config --global --add remote.origin.proxy ""
+  193  carthage update --no-use-binaries --platform ios
+  194  carthage update --no-use-binaries --platform ios
+  195  git config --global http.sslBackend "openssl"
+  196  git config --global --add remote.origin.proxy ""
+  197  carthage update --no-use-binaries --platform ios
+  198  git config --global --remove remote.origin.proxy ""
+  199  git config --global --remove remote.origin.proxy
+  200  carthage update --no-use-binaries --platform ios
+  201  brew install carthage
+  202  brew install node
+  203  open .
+  204  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  205  newPodUpdate
+  206  open .
+  207  git rm .gitattributes
+  208  git reset --hard HEAD
+  209  git reset --hard HEAD
+  210  git rm .gitattributes
+  211  git reset --hard HEAD
+  212  git rm .gitattributes
+  213  git reset --hard HEAD
+  214  git rm .gitattributes
+  215  git reset --hard HEAD
+  216  git rm .gitattributes
+  217  git reset --hard HEAD
+  218  newPodUpdate
+  219  newPodUpdate
+  220  cd /Users/qiucheng/Files/Professional/Codes/TJapp 
+  221  newPodUpdate
+  222  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  223  newPodUpdate
+  224  newPodUpdate
+  225  history
+  226  git rm .gitattributes;git reset --hard HEAD
+  227  git rm .gitattributes;git reset --hard HEAD
+  228  git rm .gitattributes;git reset --hard HEAD
+  229  ruby --version
+  230  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  231  newPodUpdate
+  232  newPodUpdate
+  233  newPodUpdate
+  234  git stash clear
+  235  git cherry-pick 387b1af0
+  236  newPodUpdate
+  237  python
+  238  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  239  newPodUpdate
+  240  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  241  newPodUpdate
+  242  newPodUpdate
+  243  newPodUpdate
+  244  newPodUpdate
+  245  cd ~/资源库/Caches
+  246  find . -type f -size +1024*200c
+  247  find . -type f -size +102400c
+  248  find . -type f -size +102400000c
+  249  find . -name *dmg
+  250  find . -name *.dmg 2>/dev/null
+  251  man size
+  252  man find
+  253  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  254  newPodUpdate
+  255  cd /Users/qiucheng/Desktop/Code
+  256  pod update
+  257  python
+  258  exit
+  259  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  260  newPodUpdate
+  261  newPodUpdate
+  262  IS_SOURCE=1 pod update
+  263  IS_SOURCE=1 pod update
+  264  IS_SOURCE=1 pod update
+  265  IS_SOURCE=1 pod update
+  266  cd /Users/qiucheng/Desktop/Code 
+  267  find . -name *.xcconfig 2>/dev/null
+  268  open ./Pods/Target Support Files/Pods-CodeTests
+  269  open ./Pods/Target\ Support\ Files/Pods-CodeTests
+  270  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  271  newPodUpdate
+  272  newPodUpdate
+  273  sudo /Applications/OmniDiskSweeper.app/Contents/MacOS/OmniDiskSweeper 
+  274  sudo /Applications/OmniDiskSweeper.app/Contents/MacOS/OmniDiskSweeper 
+  275  cd /Users/qiucheng/Desktop/Code
+  276  pod update
+  277  alias newPodUpdate
+  278  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  279  newPodUpdate
+  280  newPodUpdate
+  281  newPodUpdate
+  282  open .
+  283  pwd
+  284  cd ~
+  285  pwd
+  286  cd -
+  287  newPodUpdate
+  288  newPodUpdate
+  289  IS_SOURCE=1 pod update NGTJumpManagerModule
+  290  IS_SOURCE=1 pod update
+  291  newPodUpdate
+  292  cd /Users/qiucheng/Files/Professional/Codes/temp
+  293  newPodUpdate
+  294  newPodUpdate
+  295  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  296  newPodUpdate
+  297  alias newPodUpdate
+  298  IS_SOURCE=1 pod update
+  299  open .
+  300  newPodUpdate
+  301  newPodUpdate
+  302  pw
+  303  pwd
+  304  newPodUpdate
+  305  sudo mdutil -a -i off 
+  306  sudo mdutil -a -i on
+  307  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  308  newPodUpdate
+  309  /Users/qiucheng/Files/Professional/Codes/SubModels/NGTJumpManagerModule 
+  310  newPodUpdate
+  311  newPodUpdate
+  312  newPodUpdate
+  313  newPodUpdate
+  314  cd ~
+  315  git lfs --version
+  316  brew install git-lfs
+  317  git lfs --version
+  318  brew install git-lfs
+  319  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  320  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  321  brew install git-lfs
+  322  git lfs 
+  323  git --version
+  324  git lfs install 
+  325  git lfs install 
+  326  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  327  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  328  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  329  /bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+  330  source /Users/qiucheng/.bash_profile
+  331  brew install git-lfs
+  332  git lfs install
+  333  git lfs
+  334  git lfs env
+  335  git lfs checkout
+  336  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  337  newPodUpdate
+  338  git lfs checkout
+  339  newPodUpdate
+  340  rvictl -s
+  341  rvictl -s 68c0937331dbe84517d8797f481cbd0214db8de2
+  342  rvictl -s 68c0937331dbe84517d8797f481cbd0214db8de2
+  343  cd /Users/qiucheng/Files/Professional/Codes/HXGApp/
+  344  newPodUpdate
+  345  rvictl -s 68c0937331dbe84517d8797f481cbd0214db8de2
+  346  rvictl -l
+  347   rvictl -l
+  348   rvictl -l
+  349  rvictl -x  68c0937331dbe84517d8797f481cbd0214db8de2
+  350  rvictl -s 68c0937331dbe84517d8797f481cbd0214db8de2
+  351   rvictl -l
+  352  rvictl -s 68c0937331dbe84517d8797f481cbd0214db8de2
+  353   rvictl -l
+  354  rvictl -x  68c0937331dbe84517d8797f481cbd0214db8de2
+  355   rvictl -l
+  356  rvictl -x  68c0937331dbe84517d8797f481cbd0214db8de2
+  357  rvictl -s 68c0937331dbe84517d8797f481cbd0214db8de2
+  358  rvictl -x  68c0937331dbe84517d8797f481cbd0214db8de2
+  359  curl  /tmp/curl.log -w %{time_namelookup}:%{time_total} https://gateway.techgp.cn/rjhy-uranus/activities/ios/query/activity/list
+  360  cat host
+  361  find / -name host 2>/dev/null
+  362  find / -name hosts 2>/dev/null
+  363  cat /usr/bin/host
+  364  cat /etc/hosts
+  365  cat /System/Library/Templates/Data/private/etc/hosts
+  366  cat /System/Volumes/Data/private/etc/hosts
+  367  cat /System/Volumes/Data/System/Library/Templates/Data/private/etc/hosts
+  368  cat /System/Volumes/Data/System/Library/Templates/Data/private/etc/hosts
+  369  ping 183.232.25.136
+  370  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  371  newPodUpdate
+  372  pod search  tingyunApp
+  373  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  374  newPodUpdate
+  375  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  376  newPodUpdate
+  377  git reset  6e72489c13b4aeae856d81ce151f3d5f1d9e8d11
+  378  newPodUpdate
+  379  open .
+  380  /Users/qiucheng/Files/Professional/Codes/SubModels/NWBQuotationChartManager 
+  381  newPodUpdate
+  382  newPodUpdate
+  383  open .
+  384  newPodUpdate
+  385  newPodUpdate
+  386  open /Users/qiucheng/Files/Professional/Codes/SubModels/YTXChart2Index
+  387  open /Users/qiucheng/Files/Professional/Codes/SubModels/YTXChart2Index
+  388  newPodUpdate
+  389  ls
+  390  rm -rf Podfile.lock
+  391  newPodUpdate
+  392  newPodUpdate
+  393  newPodUpdate
+  394  newPodUpdate
+  395  newPodUpdate
+  396  newPodUpdate
+  397  newPodUpdate
+  398  newPodUpdate
+  399  open .
+  400  newPodUpdate
+  401  rm -rf /Users/qiucheng/Files/Professional/Codes/HXGApp/Podfile.lock 
+  402  newPodUpdate
+  403  newPodUpdate
+  404  defaults write com.apple.dt.Xcode ShowBuildOperationDuration YES
+  405  defaults write com.apple.dt.Xcode ShowBuildOperationDuration -bool YES
+  406  pod --version
+  407  sudo gem uninstall cocoapods
+  408  sudo gem install cocoapods -v  1.10.0
+  409  pod --version
+  410  history
+  411  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  412  newPodUpdate
+  413  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  414  newPodUpdate
+  415  defaults write com.apple.Xcode PBXNumberOfParallelBuildSubtasks  6
+  416  defaults write com.apple.Xcode PBXNumberOfParallelBuildSubtasks  7
+  417  defaults write com.apple.Xcode PBXNumberOfParallelBuildSubtasks  8
+  418  pwd
+  419  newPodUpdate
+  420  cd /Users/qiucheng/Files/Professional/Codes/TJapp 
+  421  newPodUpdate
+  422  newPodUpdate
+  423  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  424  newPodUpdate
+  425  pod search SuperPlayer
+  426  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  427  newPodUpdate
+  428  newPodUpdate
+  429  newPodUpdate
+  430  newPodUpdate
+  431  newPodUpdate
+  432  newPodUpdate
+  433  newPodUpdate
+  434  newPodUpdate
+  435  newPodUpdate
+  436  newPodUpdate
+  437  newPodUpdate
+  438  newPodUpdate
+  439  newPodUpdate
+  440  newPodUpdate
+  441  newPodUpdate
+  442  ping qq.com
+  443  ping qq.com
+  444  ping qq.com
+  445  ping test-gateway.jinyi999.cn
+  446  ping www.test-gateway.jinyi999.cn
+  447  ping gateway.techgp.cn
+  448  ping baiu.com
+  449  ping baidu.com
+  450  cd /Users/qiucheng/Files/Professional/Codes/SubModels/NGTJumpManagerModule 
+  451  ls -a
+  452  open .gitlab-ci.yml
+  453  open .gitlab-ci.yml
+  454  cat ~/.vimrc
+  455  pwd
+  456  cd /Users/qiucheng/Files/Professional/Codes/TJapp 
+  457  newPodUpdate
+  458  newPodUpdate
+  459  cd /Users/qiucheng/Files/Professional/Codes/HXGApp 
+  460  newPodUpdate
+  461  open .
+  462  newPodUpdate
+  463  newPodUpdate
+  464  newPodUpdate
+  465  newPodUpdate
+  466  open .
+  467  cd /Users/qiucheng/Files/Professional/Codes/HXGApp 
+  468  newPodUpdate
+  469  newPodUpdate
+  470  newPodUpdate
+  471  newPodUpdate
+  472  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  473  git stash list
+  474  git stash clear
+  475  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  476  newPodUpdate
+  477  cat Gemfile
+  478  cat Gemfile.lock
+  479  cd /Users/qiucheng/Files/Professional/Codes/HXGApp 
+  480  newPodUpdate
+  481  newPodUpdate
+  482  newPodUpdate
+  483  newPodUpdate
+  484  export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890
+  485  cd /Users/qiucheng/Files/Professional/Codes/MTN
+  486  ls
+  487  rm -rf Pods Podfile.lock
+  488  newPodUpdate
+  489  open .
+  490  IS_SOURCE=1 pod update
+  491  cd /Users/qiucheng/Files/Professional/Codes/SubModels/NWBHomePageBusinessModule/Example 
+  492  newPodUpdate
+  493  IS_SOURCE=1 pod update
+  494  cd /Users/qiucheng/Files/Professional/Codes/HXGApp
+  495  newPodUpdate
+  496  open /Applications/XCFormat.app/Contents/PlugIns/SourceExtension.appex/Contents/Resources
+  497  open /Applications/XCFormat.app/Contents/PlugIns/SourceExtension.appex/Contents/Resources
+  498  pwd
+  499  newPodUpdate
+  500  cd /Users/qiucheng/Files/Personal/Codes/BartonQiu/TestTwo 
+  501  export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890
+  502  git clone https://github.com/BartonQiu/TestTwo.git
+  503  touch 1.txt
+  504  ls
+  505  open .
+  506  cd /Users/qiucheng/Files/Personal/Codes/BartonQiu/TestTwo/TestTwo/FirstProject 
+  507  touch 2.txt
+  508  history > 2.txt

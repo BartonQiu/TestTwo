@@ -11,6 +11,7 @@
 @interface ViewController ()
 
 @property (strong, nonatomic) UILabel *percentLabel;
+@property (strong, nonatomic) UIImageView *arrowImageView;
 
 @end
 
@@ -21,6 +22,11 @@
     // Do any additional setup after loading the view, typically from a nib.
     [self.percentLabel setFrame:CGRectMake(20, 100, CGRectGetWidth(self.view.bounds), 35)];
     [self.view addSubview:self.percentLabel];
+    
+    self.arrowImageView.center = self.view.center;
+    [self.view addSubview:self.arrowImageView];
+    NSArray *appIconsList = [[NSBundle mainBundle] infoDictionary][@"CFBundleIconFiles"];
+    self.arrowImageView.image = [UIImage imageNamed:appIconsList.firstObject];
 }
 
 - (void)didReceiveMemoryWarning {
@@ -39,6 +45,15 @@
         _percentLabel.textColor = [UIColor magentaColor];
     }
     return _percentLabel;
+}
+
+- (UIImageView *)arrowImageView {
+    if (!_arrowImageView) {
+        _arrowImageView = [UIImageView new];
+        _arrowImageView.frame = CGRectMake(50, 50, 50, 50);
+        _arrowImageView.contentMode = UIViewContentModeScaleAspectFit;
+    }
+    return _arrowImageView;
 }
 
 @end

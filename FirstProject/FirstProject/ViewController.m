@@ -35,7 +35,6 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
     double f = 0.0;
-    double g = 0.1;
 }
 
 - (UILabel *)percentLabel {

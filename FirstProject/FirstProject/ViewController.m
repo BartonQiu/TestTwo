@@ -23,7 +23,6 @@
     [self.percentLabel setFrame:CGRectMake(20, 100, CGRectGetWidth(self.view.bounds), 35)];
     [self.view addSubview:self.percentLabel];
     int i = 0;
-    int j = 1;
     
     self.arrowImageView.center = self.view.center;
     [self.view addSubview:self.arrowImageView];

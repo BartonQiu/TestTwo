@@ -21,6 +21,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     [self.percentLabel setFrame:CGRectMake(20, 100, CGRectGetWidth(self.view.bounds), 35)];
     [self.view addSubview:self.percentLabel];
+    int i = 0;
 }
 
 - (void)didReceiveMemoryWarning {
